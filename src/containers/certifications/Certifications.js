@@ -17,7 +17,7 @@ class Certifications extends Component {
           </Fade>
         </div>
         <div className="certs-body-div">
-          {certifications.certifications.map((cert) => {
+          {certifications?.certifications.map((cert) => {
             return <CertificationCard certificate={cert} theme={theme} />;
           })}
         </div>

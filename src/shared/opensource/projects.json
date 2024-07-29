@@ -1,11 +1,11 @@
 {
   "data": [
     {
-      "id": "R_kgDOJWL0-g",
-      "name": "mdp-diffusion",
-      "createdAt": "2023-04-13T04:18:19Z",
-      "url": "https://github.com/ashutosh1919/mdp-diffusion",
-      "description": "Text-guided image editing by manipulating diffusion path without any training.",
+      "id": "1",
+      "name": "Financial Data Analysis Platform",
+      "createdAt": "2022-01-15T10:15:30Z",
+      "url": "https://github.com/samrudhsivva/financial-data-analysis-platform",
+      "description": "Developed a robust financial data analysis platform using Python and Django that processes and visualizes real-time stock market data to help investors make informed decisions.",
       "isFork": false,
       "languages": [
         {
@@ -13,74 +13,8 @@
           "iconifyClass": "logos-python"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
+          "name": "Django",
+          "iconifyClass": "simple-icons:django"
         },
         {
           "name": "JavaScript",
@@ -89,25 +23,11 @@
       ]
     },
     {
-      "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
+      "id": "2",
+      "name": "E-Commerce Website",
+      "createdAt": "2022-03-10T14:30:45Z",
+      "url": "https://github.com/samrudhsivva/e-commerce-website",
+      "description": "Created a comprehensive e-commerce website with React and Node.js, managing product listings, customer accounts, and online transactions efficiently.",
       "isFork": false,
       "languages": [
         {
@@ -115,8 +35,170 @@
           "iconifyClass": "logos-javascript"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "NodeJS",
+          "iconifyClass": "logos-nodejs"
+        },
+        {
+          "name": "MongoDB",
+          "iconifyClass": "logos-mongodb"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Healthcare Appointment System",
+      "createdAt": "2021-05-25T12:20:10Z",
+      "url": "https://github.com/samrudhsivva/healthcare-appointment-system",
+      "description": "Designed a scalable healthcare appointment scheduling system using Angular and Firebase, enabling patients to book and manage appointments online.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Angular",
+          "iconifyClass": "logos-angular"
+        },
+        {
+          "name": "Firebase",
+          "iconifyClass": "logos-firebase"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Real-Time Chat Application",
+      "createdAt": "2022-09-12T08:31:51Z",
+      "url": "https://github.com/samrudhsivva/real-time-chat-application",
+      "description": "Built a real-time chat application with JavaScript and Socket.io, supporting instant messaging, group chats, and media sharing.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Socket.io",
+          "iconifyClass": "logos-socket.io"
+        },
+        {
+          "name": "NodeJS",
+          "iconifyClass": "logos-nodejs"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Smart Home Automation System",
+      "createdAt": "2023-02-14T11:10:20Z",
+      "url": "https://github.com/samrudhsivva/smart-home-automation-system",
+      "description": "Developed a smart home automation system using Arduino and Python, allowing remote control of lighting, heating, and security via a mobile app.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Arduino",
+          "iconifyClass": "logos-arduino"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Machine Learning Model for Fraud Detection",
+      "createdAt": "2023-04-18T15:45:30Z",
+      "url": "https://github.com/samrudhsivva/fraud-detection-ml-model",
+      "description": "Implemented a machine learning model using Scikit-Learn and TensorFlow to detect fraudulent transactions in a financial dataset with high accuracy.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "TensorFlow",
+          "iconifyClass": "logos-tensorflow"
+        },
+        {
+          "name": "Scikit-Learn",
+          "iconifyClass": "simple-icons:scikitlearn"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Social Media Analytics Dashboard",
+      "createdAt": "2022-07-22T16:00:00Z",
+      "url": "https://github.com/samrudhsivva/social-media-analytics-dashboard",
+      "description": "Created a social media analytics dashboard using Tableau and Python, providing insights into user engagement and content performance across multiple platforms.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Tableau",
+          "iconifyClass": "simple-icons:tableau"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Event Management System",
+      "createdAt": "2021-03-05T09:25:30Z",
+      "url": "https://github.com/samrudhsivva/event-management-system",
+      "description": "Designed an event management system with ASP.NET and SQL Server, facilitating the planning, organization, and management of events, including ticket sales and attendee tracking.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "C#",
+          "iconifyClass": "logos-csharp"
+        },
+        {
+          "name": "ASP.NET",
+          "iconifyClass": "simple-icons:dotnet"
+        },
+        {
+          "name": "SQL Server",
+          "iconifyClass": "simple-icons:microsoftsqlserver"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Travel Booking Platform",
+      "createdAt": "2020-12-10T17:10:20Z",
+      "url": "https://github.com/samrudhsivva/travel-booking-platform",
+      "description": "Developed a travel booking platform using Ruby on Rails, integrating flight, hotel, and car rental services for a seamless user experience.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Ruby",
+          "iconifyClass": "logos-ruby"
+        },
+        {
+          "name": "Ruby on Rails",
+          "iconifyClass": "simple-icons:rubyonrails"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
         }
       ]
     }
